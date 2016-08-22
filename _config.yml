@@ -1,4 +1,3 @@
-layout_spectrum: 0.8654208478983492
 typography_spectrum: 0.5469804564490914
 color:
   brandStrength: 0.045029446948319674
@@ -6,9 +5,11 @@ color:
   saturation: 0.14691249141469598
   rhythmicContrast: 0.8213974861428142
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.8654208478983492
 name: The Fast & The Curious
+title: There must be more than this...
