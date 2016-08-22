@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T14:16:32.864Z'
+datePublished: '2016-08-22T14:16:32.913Z'
 sourcePath: _posts/2016-04-16-five-four-marvel-collection.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/style/five-four-marvel-collection'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-22T14:16:32.252Z'
+dateModified: '2016-08-22T14:16:32.409Z'
 title: Five Four + Marvel Collection
 app_links: []
 publisher:
